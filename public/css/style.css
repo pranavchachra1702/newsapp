@@ -1,0 +1,24 @@
+.background{
+    background: linear-gradient(to right, gray, dimgray, rgb(55, 55, 55));
+}
+
+.card-title{
+    font-size: 1rem;
+    height: 110px;
+}
+
+.source{
+    border-bottom: 5px solid lightgray;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.source p{
+    font-size: 0.7rem;
+}
+
+.card-text{
+    font-size: 0.8rem;
+    height: 200px;
+}
